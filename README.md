@@ -30,5 +30,6 @@ It demonstrates database connectivity, modular programming, and data structures.
 ## ▶️ Run Locally
 
 
+
 ```bash
 python -m streamlit run streamlit_app.py
