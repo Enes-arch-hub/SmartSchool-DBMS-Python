@@ -33,4 +33,4 @@ It demonstrates database connectivity, modular programming, and data structures.
 
 
 ```bash
-python -m streamlit run streamlit_app.py
+https://smartschool-dbms-python-ecmrmmakubfsad7fnldh5d.streamlit.app/
