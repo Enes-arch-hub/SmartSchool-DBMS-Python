@@ -8,6 +8,7 @@ It demonstrates database connectivity, modular programming, and data structures.
 
 ---
 
+
 ## 🚀 Features
 - Student Management (CRUD)
 - Course Management
@@ -19,6 +20,7 @@ It demonstrates database connectivity, modular programming, and data structures.
 
 ---
 
+
 ## 🛠️ Technologies
 - Python
 - SQLite
@@ -26,6 +28,7 @@ It demonstrates database connectivity, modular programming, and data structures.
 - Pandas
 
 ---
+
 
 ## ▶️ Run Locally
 
