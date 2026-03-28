@@ -8,7 +8,6 @@ It demonstrates database connectivity, modular programming, and data structures.
 
 ---
 
-
 ## 🚀 Features
 - Student Management (CRUD)
 - Course Management
