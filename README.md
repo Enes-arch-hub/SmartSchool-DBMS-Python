@@ -26,8 +26,10 @@ It demonstrates database connectivity, modular programming, and data structures.
 - SQLite
 - Streamlit
 - Pandas
+  
 
 ---
+
 
 
 ## ▶️ Run Locally
