@@ -2,7 +2,6 @@
 
 
 
-
 ## 📌 Overview
 
 This is a School Management System built using Python and SQLite.  
