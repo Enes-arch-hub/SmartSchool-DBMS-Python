@@ -21,7 +21,7 @@ It demonstrates database connectivity, modular programming, and data structures.
 - Streamlit Web Dashboard
 - Login Authentication
 
----
+----
 
 
 ## 🛠️ Technologies
