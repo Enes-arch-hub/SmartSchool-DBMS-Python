@@ -34,7 +34,6 @@ It demonstrates database connectivity, modular programming, and data structures.
 ----
 
 
-
 ## ▶️ Run Locally
 
 
