@@ -4,12 +4,10 @@
 ## 📌 Overview
 
 
-
 This is a School Management System built using Python and SQLite.  
 It demonstrates database connectivity, modular programming, and data structures.
 
 ---
-
 
 ## 🚀 Features
 - Student Management (CRUD)
